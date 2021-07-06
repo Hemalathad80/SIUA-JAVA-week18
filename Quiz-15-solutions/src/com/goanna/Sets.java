@@ -28,7 +28,7 @@ public class Sets {
         ourSet.add("Indie F");
         ourSet.add("Hema");
         ourSet.add("Huncho");
-
+     //changes done 
         // Step 2
         for(String names : ourSet){
             if(names.length() % 2 == 0){
